@@ -1,0 +1,6 @@
+{
+  "name": "KaffahHR",
+  "description": "Platform Superaplikasi Manajemen Sumber Daya Manusia Berbasis AI, Analitik Prediktif, Budaya Islamicity Kaffah, dan Sinkronisasi API Lintas Departemen.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
